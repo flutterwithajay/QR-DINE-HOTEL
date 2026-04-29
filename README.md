@@ -19,11 +19,11 @@ TableDine is a complete digital dining solution for hotels and restaurants. Gues
 - 🏷️ Update status (Pending → Preparing → Ready → Served)
 - 📱 Mobile-first design
 
-<img width="800" height="1500" alt="Screenshot_1777487333" src="https://github.com/user-attachments/assets/d3bf1134-c681-4be6-add1-360293539834" />
+<img width="500" height="900" alt="Screenshot_1777487333" src="https://github.com/user-attachments/assets/d3bf1134-c681-4be6-add1-360293539834" />
 
-<img width="800" height="1500" alt="Screenshot_1777487342" src="https://github.com/user-attachments/assets/70e7282f-213c-454c-ab4a-0b49fe018363" />
+<img width="500" height="900" alt="Screenshot_1777487342" src="https://github.com/user-attachments/assets/70e7282f-213c-454c-ab4a-0b49fe018363" />
 
-<img width="800" height="1500" alt="Screenshot_1777487345" src="https://github.com/user-attachments/assets/0c444ed5-e743-450f-829d-edfc4f9e33b1" />
+<img width="500" height="900" alt="Screenshot_1777487345" src="https://github.com/user-attachments/assets/0c444ed5-e743-450f-829d-edfc4f9e33b1" />
 
 
 ## 🛠️ Tech Stack
