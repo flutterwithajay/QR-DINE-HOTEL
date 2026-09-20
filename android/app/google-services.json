@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483176410291",
+    "project_id": "hotel-food-ordering-8c3f2",
+    "storage_bucket": "hotel-food-ordering-8c3f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483176410291:android:e83611da1206c18ef314c6",
+        "android_client_info": {
+          "package_name": "com.example.kitchen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeDldu-TGWl2di7x9PsxCyMRo4DCqmq-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
